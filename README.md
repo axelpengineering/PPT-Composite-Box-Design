@@ -74,8 +74,8 @@ ANSYS simulations were conducted to evaluate:
 
 | File | Description |
 |---|---|
-| `PPT Box Final Assembly.step` | Final 3D CAD assembly |
-| `LastDXFFilePLS.dxf` | Waterjet manufacturing layout |
+| `PPT_Box_Final_Assembly.step` | Final 3D CAD assembly |
+| `waterjet_layout.dxf` | Waterjet manufacturing layout |
 | `final_assembly.png` | Final CAD assembly render |
 | `waterjet_dxf_layout.png` | Nested DXF cutting layout |
 | `ansys_fea_results.png` | Structural simulation results |
