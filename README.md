@@ -41,6 +41,7 @@ This layup configuration was selected to balance:
 - Lightweight performance
 - Energy absorption
 - Composite manufacturability
+- Electrical insulation
 
 ---
 
