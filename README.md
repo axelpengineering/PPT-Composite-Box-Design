@@ -25,6 +25,25 @@ This project involved the design and verification of a composite-compatible encl
 
 ---
 
+## 🧵 Composite Layup Structure
+
+The enclosure was designed using a hybrid composite sandwich structure consisting of:
+
+- Kevlar outer layer
+- Carbon fiber layer
+- 1/4 inch Divinycell core
+- Carbon fiber layer
+- Kevlar inner layer
+
+This layup configuration was selected to balance:
+- Impact resistance
+- Structural stiffness
+- Lightweight performance
+- Energy absorption
+- Composite manufacturability
+
+---
+
 ## 📦 Final Assembly
 
 ![Final Assembly](final_assembly.png)
