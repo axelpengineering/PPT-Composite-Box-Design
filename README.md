@@ -1,67 +1,81 @@
-# 📦 Kevlar Composite Box Design
+# 📦 PPT Composite Box Design
 
-Mechanical design and fabrication workflow for a lightweight composite box enclosure designed for waterjet manufacturing and composite layup.
+Lightweight composite box enclosure designed for waterjet manufacturing, structural performance, and manufacturable assembly.
 
 ---
 
-## 📐 Project Overview
+## 📐 Overview
 
-This project focused on designing a lightweight structural box with:
-- Interlocking tab geometry
-- Waterjet-compatible flat patterns
-- Composite-compatible tolerances
-- Assembly verification in CAD
+This project involved the design and verification of a composite-compatible enclosure using CAD modeling, nested DXF manufacturing layouts, and structural FEA analysis.
 
-The enclosure was designed within manufacturing constraints of:
-- 914 × 812 mm Kevlar sheet
-- 7.5 mm wall thickness
-- 1 mm tab clearance tolerance
+### Key Objectives
+- Lightweight structural design
+- Waterjet manufacturability
+- Tab-based assembly alignment
+- Structural stiffness verification
+- Composite manufacturing compatibility
+
+---
+
+## 🛠️ Software Used
+
+- Fusion 360
+- ANSYS Mechanical
+- CATIA V5
+
+---
+
+## 📦 Final Assembly
+
+![Final Assembly](final_assembly.png)
+
+The final enclosure assembly was verified in CAD to ensure:
+- Proper tab alignment
+- Manufacturable tolerances
+- Correct mating geometry
+- Assembly feasibility
+
+---
+
+## ✂️ Waterjet DXF Layout
+
+![DXF Layout](waterjet_dxf_layout.png)
+
+The enclosure faces were flattened and nested to:
+- Optimize material usage
+- Remain within manufacturing constraints
+- Prepare for CNC/waterjet cutting
+
+---
+
+## 📊 Structural FEA Analysis
+
+![FEA Results](ansys_fea_results.png)
+
+ANSYS simulations were conducted to evaluate:
+- Structural deflection
+- Stress concentration regions
+- Potential failure locations
+- Enclosure stiffness under loading
 
 ---
 
 ## 🧵 Design Features
 
-- Puzzle-fit rectangular tab joints
-- Flat-pack manufacturable geometry
-- Waterjet nested cut layouts
-- CAD assembly verification
-- Composite-oriented structural design
+- Puzzle-fit rectangular tabs
+- Composite-oriented enclosure geometry
+- Waterjet-ready flat patterns
+- CAD assembly validation
+- Structural verification using FEA
 
 ---
 
-## 🛠️ Tools Used
+## 📁 Included Files
 
-- Fusion 360
-- CATIA V5
-- Waterjet manufacturing workflow
-- Composite fabrication planning
-
----
-
-## ✂️ Manufacturing Workflow
-
-1. CAD design of enclosure geometry
-2. Tab tolerance optimization
-3. Face extraction and DXF preparation
-4. Cut layout nesting
-5. Assembly verification in Fusion 360
-
----
-
-## 📊 Key Engineering Considerations
-
-- Tab tolerance sizing
-- Material usage optimization
-- Manufacturability
-- Assembly alignment
-- Composite panel constraints
-
----
-
-## 🔩 Final Result
-
-The final design successfully:
-- Fit within manufacturing constraints
-- Maintained assembly tolerances
-- Verified full enclosure assembly in CAD
-- Optimized material layout for waterjet cutting
+| File | Description |
+|---|---|
+| `PPT Box Final Assembly.step` | Final 3D CAD assembly |
+| `LastDXFFilePLS.dxf` | Waterjet manufacturing layout |
+| `final_assembly.png` | Final CAD assembly render |
+| `waterjet_dxf_layout.png` | Nested DXF cutting layout |
+| `ansys_fea_results.png` | Structural simulation results |
