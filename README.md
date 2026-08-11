@@ -99,7 +99,7 @@ Following the completion of the CAD and simulation stages, the enclosure was phy
 ### Waterjet-Cut Composite Faces
 
 <p align="center">
-  <img src="faceCutout.JPEG" width="250" height="250">
+  <img src="faceCutout.JPEG" width="250" height="325">
 </p>
 
 The individual composite enclosure faces were produced from the finalized flat-pattern geometry. The puzzle-fit tab design helped maintain alignment between panels while converting the original CAD assembly into manufacturable components.
@@ -107,7 +107,7 @@ The individual composite enclosure faces were produced from the finalized flat-p
 ### Epoxy Assembly
 
 <p align="center">
-  <img src="epoxyingbox.JPEG" width="250" height="250">
+  <img src="epoxyingbox.JPEG" width="250" height="325">
 </p>
 
 The enclosure faces were aligned and bonded using epoxy to form the final structure. This stage provided an opportunity to evaluate the practical fit of the tab geometry, manufacturing tolerances, and overall assembly process.
@@ -115,7 +115,7 @@ The enclosure faces were aligned and bonded using epoxy to form the final struct
 ### Completed Composite Box
 
 <p align="center">
-  <img src="CompleteBox.JPEG" width="250" height="250">
+  <img src="CompleteBox.JPEG" width="250" height="325">
 </p>
 
 The completed enclosure demonstrated the full design-to-manufacturing workflow, progressing from CAD geometry and structural analysis to waterjet-cut composite panels and final bonded assembly.
