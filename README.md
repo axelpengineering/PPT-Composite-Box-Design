@@ -50,7 +50,9 @@ This layup configuration was selected to balance:
 
 ## 📦 Final Assembly
 
-![Final CAD Assembly](final_assembly.png)
+<p align="center">
+  <img src="final_assembly.png" width="250" height="250">
+</p>
 
 The final enclosure assembly was verified in CAD to ensure:
 
@@ -63,7 +65,9 @@ The final enclosure assembly was verified in CAD to ensure:
 
 ## ✂️ Waterjet DXF Layout
 
-![Waterjet DXF Layout](waterjet_dxf_layout.png)
+<p align="center">
+  <img src="waterjet_dxf_layout.png" width="250" height="250">
+</p>
 
 The enclosure faces were flattened and nested to:
 
@@ -75,7 +79,9 @@ The enclosure faces were flattened and nested to:
 
 ## 📊 Structural FEA Analysis
 
-![ANSYS FEA Results](ansys_fea_results.png)
+<p align="center">
+  <img src="ansys_fea_results.png" width="250" height="250">
+</p>
 
 ANSYS simulations were conducted to evaluate:
 
@@ -92,19 +98,25 @@ Following the completion of the CAD and simulation stages, the enclosure was phy
 
 ### Waterjet-Cut Composite Faces
 
-![Waterjet Cut Face](faceCutout.JPEG)
+<p align="center">
+  <img src="faceCutout.JPEG" width="250" height="250">
+</p>
 
 The individual composite enclosure faces were produced from the finalized flat-pattern geometry. The puzzle-fit tab design helped maintain alignment between panels while converting the original CAD assembly into manufacturable components.
 
 ### Epoxy Assembly
 
-![Epoxying Box](epoxyingbox.JPEG)
+<p align="center">
+  <img src="epoxyingbox.JPEG" width="250" height="250">
+</p>
 
 The enclosure faces were aligned and bonded using epoxy to form the final structure. This stage provided an opportunity to evaluate the practical fit of the tab geometry, manufacturing tolerances, and overall assembly process.
 
 ### Completed Composite Box
 
-![Completed Composite Box](CompleteBox.JPEG)
+<p align="center">
+  <img src="CompleteBox.JPEG" width="250" height="250">
+</p>
 
 The completed enclosure demonstrated the full design-to-manufacturing workflow, progressing from CAD geometry and structural analysis to waterjet-cut composite panels and final bonded assembly.
 
@@ -135,7 +147,7 @@ Manufacturing the design also provided practical validation of the panel geometr
 | File                          | Description                            |
 | ----------------------------- | -------------------------------------- |
 | `PPT_Box_Final_Assembly.step` | Final 3D CAD assembly                  |
-| `waterjet_layout.dxf`         | Waterjet manufacturing layout          |
+| `waterjet_layout.dxf`         | Waterjet manufacturing layout         |
 | `final_assembly.png`          | Final CAD assembly render              |
 | `waterjet_dxf_layout.png`     | Nested DXF cutting layout              |
 | `ansys_fea_results.png`       | Structural simulation results          |
